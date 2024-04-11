@@ -41,8 +41,18 @@
 
 // console.log(res);
 
-let age = prompt('Укажите ваш возраст')
-let a = 10
-let res = +age + a
+// let age = prompt('Укажите ваш возраст')
+// let a = 10
+// let res = +age + a
 
-console.log(res);
+// console.log(res);
+
+// for (let i = 0; i <= 5; i++) {
+//     console.log(i);
+// }
+
+// let num = 0
+// for (let i = 10; i > num; i--) {
+//     console.log(i)
+// }
+
